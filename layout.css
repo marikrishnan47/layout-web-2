@@ -1,0 +1,304 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:broder-box;
+}
+.container{
+    margin:0 auto;
+	width:1170px;
+	padding: 0 15px;
+
+}
+.ba-image{
+	background-color:purple;
+}
+
+.header{
+	background-color:;
+	height:auto;
+}
+.header-section{
+    padding:5px 0px;
+	display:flex;
+	justify-content:space-between;
+}
+.header-info{
+	width:60%;
+	padding:10px 0px;
+	background-color:black;
+}
+.header-end{
+	width:20%;
+	padding:10px 0px;
+	background-color:black;
+}
+/*---- header end---*/
+.nav-bar{
+	background-color:;
+	height:auto;
+}
+.nav-section{
+     padding:5px 0px;
+	display:flex;
+	justify-content:space-between;
+}
+.nav-info{
+	width:20%;
+	padding:20px 0px;
+	background-color:black;
+}
+.nav-menu{
+	width:50%;
+	padding:20px 0px;
+	background-color:black;
+}
+.nav-btn{
+	width:20%;
+	padding:20px 0px;
+	background-color:black;
+}
+/*----- nav bar-------*/
+.banner{
+	background-color:purple;
+	height:auto;
+	padding:20px 0px;
+}
+.main-content{
+	padding:20px 0px;
+}
+.main{
+	padding:10px 0px;
+	width:95%;
+	background-color:black;
+	height:40vh;
+	padding:10px 0px;
+}
+/*---- banner end---*/
+.about{
+	background-color:gold;
+	height:auto;
+	padding:20px 0px;
+}
+.about-section{
+    padding:40px 0px;
+	display:flex;
+	width:100%;
+	justify-content:space-between;
+	
+}
+.about-content{
+	width:50%;
+	height:40vh;
+	background-color:black;
+	margin-right:10px;
+}
+.about-photo{
+	width:50%;
+	height:40vh;
+	background-color:black;
+	margin-left:10px;
+}
+/*--- about end----*/
+.choose-section{
+	background-color:purple;
+	height:auto;
+	padding:20px 0px;
+}
+.choose-flex{
+	display:flex;
+	justify-content:space-between;
+	padding:30px 0px;
+}
+.choose-1{
+	width:32%;
+	height:50vh;
+	background-color:black;
+	
+}
+/*----------- choose end----*/
+.collection{
+	background-color:gold;
+	height:auto;
+	padding:20px 0px;
+}
+.collection-content{
+	height:50vh;
+}
+.collection-items{
+	padding:10px 0px;
+	width:100%;
+	background-color:black;
+	height:40vh;
+	padding:10px 0px;
+}
+/*------- collection end----*/
+.specials-section{
+	background-color:purple;
+	height:auto;
+	padding:10px 0px;
+}
+.specials-flex{
+	display:flex;
+	
+	padding:30px 0px;
+	gap:10px;
+}
+.specials-1{
+	width:30%;
+	height:50vh;
+	background-color:black;
+	
+}
+.specials-2{
+	width:40%;
+	height:50vh;
+	background-color:black;
+	
+}
+/*-----specials   end-----*/
+.serveics{
+	background-color:gold;
+	height:auto;
+	padding:20px 0px;
+}
+.serveics-section{
+    padding:40px 0px;
+	display:flex;
+	width:100%;
+	justify-content:space-between;
+	
+}
+.serveics-content{
+	width:50%;
+	height:40vh;
+	background-color:black;
+	margin-right:10px;
+}
+.serveics-photo{
+	width:50%;
+	height:40vh;
+	background-color:black;
+	margin-left:10px;
+}
+/*--------- serveics end ----*/
+
+.table{
+	background-color:purple;
+	height:auto;
+	padding:30px 0px;
+}
+.table-content{
+
+}
+.table-items{
+	padding:10px 0px;
+	width:100%;
+	background-color:black;
+	height:40vh;
+}
+/*----- table  end -----*/
+.member-section{
+	background-color:gold;
+	height:auto;
+	padding:10px 0px;
+}
+.member-flex{
+	display:flex;
+	padding:30px 0px;
+	gap:10px;
+}
+.member-1{
+	width:33.3%;
+	height:50vh;
+	background-color:black;
+	
+}
+/*--- member end  ----*/
+.photos{
+	background-color:purple;
+	height:auto;
+	padding:30px 0px;
+}
+.photo-content{
+
+}
+.photo-items{
+	padding:10px 0px;
+	width:100%;
+	background-color:black;
+	height:40vh;
+}
+/*--------- photos end ----*/
+.chefs-section{
+	background-color:gold;
+	height:auto;
+	padding:10px 0px;
+}
+.chefs-flex{
+	display:flex;
+	padding:30px 0px;
+	gap:10px;
+}
+.chefs-1{
+	width:33.3%;
+	height:50vh;
+	background-color:black;
+	
+}
+/*---- chefs end-----*/
+.contact{
+	background-color:purple;
+	height:auto;
+	padding:30px 0px;
+}
+.contact-content{
+
+}
+.contact-maps{
+	padding:10px 0px;
+	width:100%;
+	height:40vh;
+
+}
+.contact-items{
+	padding:10px 0px;
+	width:100%;
+	background-color:black;
+	height:40vh;
+}
+/*------ end cantact ----*/
+.footer-section{
+	background-color:gold;
+	height:auto;
+	padding:10px 0px;
+}
+.footer-flex{
+	display:flex;
+	
+	padding:30px 0px;
+	gap:10px;
+}
+.footer-1{
+	width:30%;
+	height:50vh;
+	background-color:black;
+	
+}
+.footer-2{
+	width:20%;
+	height:50vh;
+	background-color:black;
+	
+}
+.footer-3{
+	width:20%;
+	height:50vh;
+	background-color:black;
+	
+}
+.footer-4{
+	width:30%;
+	height:50vh;
+	background-color:black;
+	
+}
